@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        mask: url(#mask);
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .st2 {
+        display: none;
+        fill: #f7f8fc;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <mask id="mask" x="32" y="35" width="66" height="60" maskUnits="userSpaceOnUse">
+      <g id="svg-defs-mask-neomorphic-icon-m-laptop">
+        <path class="st1" d="M35.6,79.5h58.8c.2,0,.4.2.4.4h0v1.6c0,1.3-1.1,2.4-2.4,2.4h-54.8c-1.3,0-2.4-1.1-2.4-2.4v-1.6c0-.2.2-.4.4-.4h0Z"/>
+        <path class="st1" d="M40.7,74.8v-25.8c0-1.6,1.3-2.8,2.8-2.8h42.9c1.6,0,2.8,1.3,2.8,2.8h0v25.8"/>
+        <line class="st1" x1="60.9" y1="50.4" x2="69.1" y2="50.4"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient" x1="35" y1="34.9" x2="95" y2="94.9" gradientTransform="translate(0 129.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7141f1"/>
+      <stop offset=".7" stop-color="#4d6bd8"/>
+      <stop offset="1" stop-color="#3183e2"/>
+    </linearGradient>
+  </defs>
+  <rect class="st2" y="0" width="130" height="130" rx="24" ry="24"/>
+  <g class="st0">
+    <rect class="st3" x="32" y="35" width="66" height="60"/>
+  </g>
+</svg>
