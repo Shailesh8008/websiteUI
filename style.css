@@ -1,0 +1,60 @@
+header {
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+.subscribe{
+    background-color: #4e54c8;
+}
+.img2, .img3 {
+    width: 4.2rem !important;
+}
+.card {
+    width: 22rem;
+}
+.student-feedback, input {
+    width: 33.5rem !important;
+}
+textarea {
+    width: auto !important;
+}
+.footer-details{
+    width: 42rem;
+}
+.fb {
+    width: 1.3rem;
+}
+.x {
+    width: 2.1rem;
+}
+.insta {
+    width: 2.4rem;
+}
+.yt {
+    width: 1.5rem;
+}
+.robot {
+    width: 4rem;
+}
+.card .content, .skill-container, .p, footer {
+    font-size: .88rem;
+}
+@media (min-width: 768px) {
+    .about {
+        margin-left: 5rem;
+    }
+    .about .p2 {
+        width: 72rem;
+    }
+    .p2 img {
+        width: 80% !important;
+        height: 18rem;
+    }
+    .skill-container {
+        width: 23rem;
+    }
+}
+@media (max-width: 1111px) {
+    textarea {
+        width: 33.5rem !important;
+    }
+
+}
